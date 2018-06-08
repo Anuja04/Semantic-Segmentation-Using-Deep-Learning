@@ -10,4 +10,4 @@ Implementation -
 •	Applied and tuned the model to get desired results using tensorflow. 
 
 
-GitHub. (2018). jakeret/tf_unet. [online] Available at: https://github.com/jakeret/tf_unet 
+Adapted Unet based model from: jakeret/tf_unet. [online] Available at: https://github.com/jakeret/tf_unet 
